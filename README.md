@@ -5,6 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartheeswari-e" alt="kartheeswari-e" /></a> </p>
 
+- 🔭 I’m currently working on **chat application**
+
+- 🌱 I’m currently learning **Socket.io**
+
+- 👨‍💻 All of my projects are available at [https://tubular-froyo-286bef.netlify.app](https://tubular-froyo-286bef.netlify.app)
+
+- 💬 Ask me about **react, UI, CSS,**
+
+- 📫 How to reach me **kartheesw2001@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T3P-_NlRGHtWcQAidZ3iUXBsn1AIoJIl/view?usp=share_link](https://drive.google.com/file/d/1T3P-_NlRGHtWcQAidZ3iUXBsn1AIoJIl/view?usp=share_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -17,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartheeswari-e&show_icons=true&locale=en" alt="kartheeswari-e" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartheeswari-e&" alt="kartheeswari-e" /></p>
-
